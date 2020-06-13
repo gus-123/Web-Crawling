@@ -8,8 +8,8 @@ for file in filelist:
 
 def Print_menu():
     print("#---------------------------------------------#")
-    print("1. 주석 달기")
-    print("2. 파파고 번역")
+    print("1. 학교위치정보")
+    print("2. 번역")
     print("3. 웹 크롤링")
     print("4. 캘린더")
     print("0. 종료\n")
@@ -24,7 +24,7 @@ def main():
     while 1:
         menu = Print_menu()
 
-        # ----- 주석 달기 -----
+        # ----- 학교위치정보 달기 -----
         if menu == 1:
             import subprocess
             from glob import glob
@@ -34,7 +34,7 @@ def main():
                 subprocess.call(['python', file])
                 break
 
-        # ----- 파파고 번역 -----
+        # ----- 번역 -----
         elif menu == 2:
             import subprocess
             from glob import glob
@@ -52,7 +52,7 @@ def main():
             for file in filelist:
                 subprocess.call(['python', file])
 
-        # ----- 파파고 번역 -----
+        # ----- 캘린더 번역 -----
         elif menu == 4:
             import subprocess
             from glob import glob

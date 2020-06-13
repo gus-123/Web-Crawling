@@ -1,44 +1,43 @@
------banana의 1페이지 결과 입니다.-----
-홍대 카페 더 빅 바나나 the big banana
-https://dks900409.blog.me/221408464564
-마켓컬리 추천인 :banana119 (+100원 제품 담는법!)
-https://blog.naver.com/eduline2002?Redirect=Log&logNo=221935620510
-201번째, 호치민에서 분위기 제일 좋은 루프탑 바 바나나 마마 BANANA MAMA
-https://blog.naver.com/yunw98?Redirect=Log&logNo=221785472379
-Banana Storybooks (바나나스토리북) :  얼리챕터북으로 추천.
-https://vikycarter.blog.me/221991807344
-[영어문장]  Top banana, Second banana 뜻은?
-https://blog.naver.com/compared77?Redirect=Log&logNo=221990084784
-미국일상: 바나나브레드 홈베이킹 Baking Banana bread
-https://blog.naver.com/jejeon91?Redirect=Log&logNo=221716464137
-도쿄바나나 X 킷캣 콜라보레이션(TOKYO BANANA X KITKAT).
-https://blog.naver.com/wogur1157?Redirect=Log&logNo=221418801837
-FRUIT IDIOMS과일 영어표현1.go banana무엇에 미치다/a bite at the cherry좋은 기회/a plum job근사한 일/apples and oranges
-https://blog.naver.com/haminee0691?Redirect=Log&logNo=221850499451
-생채식 바나나 푸딩 (Raw vegan banana pudding)
-https://blog.naver.com/gumgak1?Redirect=Log&logNo=221840989301
-점박이 바나나 처리! 초간단 바나나 머핀 만들기(banana muffins)
-https://blog.naver.com/homoscriptus?Redirect=Log&logNo=221419197897
+-----Python의 1페이지 결과 입니다.-----
+Python Jupyter notebook 사용방법 주피터노트북 사용법 1
+https://blog.naver.com/lcj8390?Redirect=Log&logNo=221987517960
+파이썬(Python) - 네이버 블로그 상단 글 리스트 정보 얻어오기
+https://blog.naver.com/chandong83?Redirect=Log&logNo=221955351945
+[Python Flask] 프로젝트 : Todo List 할 일 메모 웹
+https://blog.naver.com/dsz08082?Redirect=Log&logNo=221978542588
+OpenCV 와 Python으로 배우는 신용카드 OCR-1
+https://blog.naver.com/tommybee?Redirect=Log&logNo=221836206507
+[Python] 변수의 타입 (숫자형)
+https://nuberus.blog.me/221736601757
+후디니 - Dynamic FBX Exporting(Python)
+https://blog.naver.com/daehuck?Redirect=Log&logNo=221986657331
+[라즈베리파이] Python 문법: 제어문 - for문
+https://blog.naver.com/dokkosam?Redirect=Log&logNo=221998378396
+[Python Basic] 4. 파이썬 프로그래밍(미완성)
+https://blog.naver.com/slykid?Redirect=Log&logNo=221941390163
+Python3 콘솔출력 (PRINT, FORMAT, PPRINT)
+https://blog.naver.com/happy_jhyo?Redirect=Log&logNo=221995482335
+python-firebase 라이브러리 파이썬3에서 사용하기
+https://cosmosjs.blog.me/221931186598
 
------banana의 2페이지 결과 입니다.-----
-영통 맛집 추천 : 바나나테이블 미니 BANANA TABLE MINI
-https://blog.naver.com/mi_87?Redirect=Log&logNo=221551522675
-호주 브리즈번 백팩커스, 바나나벤더 백팩커스(BANANA BENDER BACKPACKERS)
-https://blog.naver.com/qowk20?Redirect=Log&logNo=221748838549
-저렴한 Single Board Computer - Banana Pi M2 Zero
-https://blog.naver.com/ansdbtls4067?Redirect=Log&logNo=221503893573
-황금연꽃바나나(golden lotus banana, Chinese dwarf banana, Chinese yellow banana)
-https://blog.naver.com/vivaplus?Redirect=Log&logNo=221652453934
-브라질여행/ Paraty : 파라치 맛집 두번째, Banana da Terra
-https://pnp524.blog.me/221666806823
-카라멜 바나나 케이크(Caramel Banana Cake)
-https://blog.naver.com/jinsangjip?Redirect=Log&logNo=221484285850
-제주 중문 카페 바나나 Cafe Banana
-https://blog.naver.com/486nanana?Redirect=Log&logNo=221970749739
-바나나빵 (Banana Nut Bread)
-https://blog.naver.com/estheryoo5?Redirect=Log&logNo=221760351090
-[영어 집중듣기] 4개월차. 잉글리시크레용 2권. The perfect banana cake / I'm big too
-https://blog.naver.com/gkddk847?Redirect=Log&logNo=221838399527
-[Ep # 3] 바나나 떡 Banana Rice Cake :: 진짜 쉬운 바나나떡 만들기
-https://blog.naver.com/shyr123?Redirect=Log&logNo=221995818838
-
+-----Python의 2페이지 결과 입니다.-----
+[Python] 가상포트를 이용한 시리얼(Serial)통신, 보낸 데이터를 하이퍼터미널로 확인하기
+https://blog.naver.com/yehyang0512?Redirect=Log&logNo=221885117148
+Python) Bitwise Operation
+https://blog.naver.com/babobigi?Redirect=Log&logNo=221866033651
+[python]파이썬/데이터베이스/MySQL/개발 환경
+https://blog.naver.com/scyan2011?Redirect=Log&logNo=221960534512
+Python Jupyter notebook 사용방법 주피터노트북 사용법 2
+https://blog.naver.com/lcj8390?Redirect=Log&logNo=221987560432
+파이썬(Python) - 네이버 블로그 글 가져와 백업하기
+https://blog.naver.com/chandong83?Redirect=Log&logNo=221953785531
+[Python] 파이썬 Firebase Cloud Firestore 데이터 추가, 조회
+https://blog.naver.com/dsz08082?Redirect=Log&logNo=221992572112
+OpenCV Python을 이용한 이미지 차이점 계산
+https://blog.naver.com/tommybee?Redirect=Log&logNo=221883932587
+[Python] 소스 기본 구조 / 입출력 함수 (input, print)
+https://nuberus.blog.me/221736534605
+Python, tkinter, 레이블과 버튼
+https://kh2un.blog.me/221854961842
+[MATLAB-python연계 베이지안 최적화 1] Python Bayesian optimizaiton library를 MATLAB과 연계하기
+https://sonyi.blog.me/221995336563

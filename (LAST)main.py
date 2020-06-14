@@ -22,7 +22,7 @@ def translate():
         subprocess.call(['python', file])
 
 def crawling():
-    filelist = glob("maincrawling.py")
+    filelist = glob("crawling.py")
 
     for file in filelist:
         subprocess.call(['python', file])

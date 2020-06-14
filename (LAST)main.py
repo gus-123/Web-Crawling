@@ -1,15 +1,9 @@
-import os
-import sys
-import urllib.request
-import json, pprint
-import urllib.parse
-from bs4 import BeautifulSoup
-from tkinter import *
-from tkinter import messagebox
 import subprocess
 from glob import glob
+from tkinter import *
+from tkinter import messagebox
 
-filelist = glob("text_alphabet_recog2.py")
+filelist = glob("text_alphabet_recog.py")
 
 for file in filelist:
     subprocess.call(['python', file])

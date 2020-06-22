@@ -3,10 +3,10 @@ from glob import glob
 from tkinter import *
 from tkinter import messagebox
 
-filelist = glob("text_alphabet_recog.py")
+filelist = glob("text_alphabet_recog.py") #손글씨 인식을 실행
 
 for file in filelist:
-    subprocess.call(['python', file])
+    subprocess.call(['python', file])  #subprocess모듈을 이용하여 파이썬 파일을 실행
 
 def campusmap():
     filelist = glob("CampusMap.py")
